@@ -1,0 +1,10 @@
+0 silly argv {
+0 silly argv   _: [ 'bootstrap' ],
+0 silly argv   lernaVersion: '3.16.4',
+0 silly argv   '$0': 'node_modules/.bin/lerna'
+0 silly argv }
+1 notice cli v3.16.4
+2 verbose rootPath /Users/tmerkulova/cliqz-components
+3 error JSONError: Unexpected token } in JSON at position 244 while parsing near '...uator": "1.2.17",  },  "main": "dist/i...' in packages/cliqz-component-ui-movie-showtimes/package.json
+3 error     at module.exports (/Users/tmerkulova/cliqz-components/node_modules/parse-json/index.js:26:19)
+3 error     at parse (/Users/tmerkulova/cliqz-components/node_modules/@lerna/project/node_modules/load-json-file/index.js:15:9)
